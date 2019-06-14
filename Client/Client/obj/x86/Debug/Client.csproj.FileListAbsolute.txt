@@ -1,0 +1,6 @@
+C:\Users\ANKUR GUPTA\Documents\Visual Studio 2015\Projects\College_Project\1\Client\Client\Client\bin\x86\Debug\Client.exe.config
+C:\Users\ANKUR GUPTA\Documents\Visual Studio 2015\Projects\College_Project\1\Client\Client\Client\bin\x86\Debug\Client.exe
+C:\Users\ANKUR GUPTA\Documents\Visual Studio 2015\Projects\College_Project\1\Client\Client\Client\bin\x86\Debug\Client.pdb
+C:\Users\ANKUR GUPTA\Documents\Visual Studio 2015\Projects\College_Project\1\Client\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\ANKUR GUPTA\Documents\Visual Studio 2015\Projects\College_Project\1\Client\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\ANKUR GUPTA\Documents\Visual Studio 2015\Projects\College_Project\1\Client\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache

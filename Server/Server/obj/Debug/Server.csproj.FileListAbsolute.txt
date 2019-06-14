@@ -1,0 +1,6 @@
+c:\users\ankur gupta\documents\visual studio 2015\Projects\College_Project\1\Server\Server\Server\bin\Debug\Server.exe.config
+c:\users\ankur gupta\documents\visual studio 2015\Projects\College_Project\1\Server\Server\Server\bin\Debug\Server.exe
+c:\users\ankur gupta\documents\visual studio 2015\Projects\College_Project\1\Server\Server\Server\bin\Debug\Server.pdb
+c:\users\ankur gupta\documents\visual studio 2015\Projects\College_Project\1\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\ankur gupta\documents\visual studio 2015\Projects\College_Project\1\Server\Server\Server\obj\Debug\Server.exe
+c:\users\ankur gupta\documents\visual studio 2015\Projects\College_Project\1\Server\Server\Server\obj\Debug\Server.pdb
